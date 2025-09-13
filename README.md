@@ -15,4 +15,5 @@
 3. [Customer Segmentation](https://github.com/AbuHozaifa/Customer-Segmentation)  
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin)
+[LinkedIn](https://www.linkedin.com/in/abu-hozaifa-dataanalyst
+
